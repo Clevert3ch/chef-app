@@ -2,7 +2,7 @@
 
 A web app that suggests recipes based on ingredients you already have on hand. Built with React and powered by the Anthropic Claude API.
 
-![Chef Claude demo](./docs/demo.gif)
+![Chef Claude demo](./docs/chefClaude.gif)
 
 ## Why I built it
 
